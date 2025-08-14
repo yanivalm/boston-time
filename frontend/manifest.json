@@ -1,0 +1,8 @@
+{
+  "name": "Time Clock MVP",
+  "short_name": "TimeClock",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Demo PWA for time clock system"
+}
